@@ -120,20 +120,20 @@ public class SortAlgorithm {
     }
 
     private void quickSort(int[] list, int left, int right) {
-        int f,t;
+        int base,temp;
         int ltemp,rtemp;
 
         ltemp = left;
         rtemp = right;
 
-        f = list[(left+right)/2]; // 分解值
+        base = list[(left+right)/2]; // 分解值
         while (ltemp<rtemp){
-            while(list[ltemp]<f) ltemp++;
-            while (list[rtemp]>f) rtemp--;
+            while(list[ltemp]<base) ltemp++;
+            while (list[rtemp]>base) rtemp--;
             if (ltemp<=rtemp){
-                t = list[ltemp];
+                temp = list[ltemp];
                 list[ltemp] = list[rtemp];
-                list[rtemp] = t;
+                list[rtemp] = temp;
                 rtemp--;
                 ltemp++;
             }
