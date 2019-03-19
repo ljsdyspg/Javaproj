@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80605d4a-fa46-4bef-9b55-4d33421ea636" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SortAlgorithm.java" afterDir="false" />
-    </list>
+    <list default="true" id="80605d4a-fa46-4bef-9b55-4d33421ea636" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/SortAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="219" column="7" lean-forward="true" selection-start-line="219" selection-start-column="7" selection-end-line="219" selection-end-column="7" />
+            <state relative-caret-position="707">
+              <caret line="230" column="29" lean-forward="true" selection-start-line="230" selection-start-column="29" selection-end-line="230" selection-end-column="29" />
               <folding>
                 <element signature="method#heapSort#0;class#SortAlgorithm#0" />
               </folding>
@@ -76,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1401" />
@@ -119,7 +116,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552974394152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552974434028" />
     <property name="last_opened_file_path" value="D:/OpenCVProject/PerspectiveTransform" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -225,16 +222,15 @@
       <workItem from="1552881813549" duration="23000" />
       <workItem from="1552916267119" duration="161000" />
       <workItem from="1552916509041" duration="6381000" />
-      <workItem from="1552960090549" duration="9366000" />
+      <workItem from="1552960090549" duration="9890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25999000" />
+    <option name="totallyTimeSpent" value="26523000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2575" height="1424" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2575" height="1424" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25744936" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -301,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/SortAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="219" column="7" lean-forward="true" selection-start-line="219" selection-start-column="7" selection-end-line="219" selection-end-column="7" />
+        <state relative-caret-position="707">
+          <caret line="230" column="29" lean-forward="true" selection-start-line="230" selection-start-column="29" selection-end-line="230" selection-end-column="29" />
           <folding>
             <element signature="method#heapSort#0;class#SortAlgorithm#0" />
           </folding>
